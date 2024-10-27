@@ -19,7 +19,7 @@ I am a student at the University of El Salvador, currently finishing the fourth 
 ## Contacto / Contact
 
 Puedes contactarme a través de:
-- [Correo electrónico](mv23036@ues.edu.sv)
+- [Correo electrónico](mailto:mv23036@ues.edu.sv)
 
 ---
 
